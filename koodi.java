@@ -15,3 +15,4 @@ void TulostetaanHeiMaailma() {
 void TulostetaanHeiSuomi() {
   System.out.println("Hei, Suomi!");
 }
+Uusi rivi 3
